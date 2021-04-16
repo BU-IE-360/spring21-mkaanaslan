@@ -5,5 +5,6 @@
 
 ## Homework 1
 
-[Here](files/hw1.html) is my Homework 1 report.
+[Here](files/hw1.html) is my Homework 1 report.  
+
 [Here](files/hw1.ipynb) is my Homework 1 Jupyter Notebook file.
