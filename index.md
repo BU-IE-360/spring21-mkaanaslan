@@ -8,3 +8,9 @@
 [Here](files/hw1.html) is my Homework 1 report.  
 
 [Here](files/hw1.ipynb) is my Homework 1 Jupyter Notebook file.
+
+## Homework 2
+
+[Here](files/hw2.html) is my Homework 1 report.  
+
+[Here](files/hw2.ipynb) is my Homework 1 Jupyter Notebook file.
