@@ -22,6 +22,13 @@
 
 [Here](files/HW3.ipynb) is my Homework 3 Jupyter Notebook file.
 
+## Homework 4&5
+
+[Here](files/HW4&5.html) is my Homework 4&5 report.
+
+[Here](files/HW4&5.html) is my Homework 4&5 Jupyter Notebook file.
+
+
 ## Project
 
 [Here](files/proje.html) is my Project report.
